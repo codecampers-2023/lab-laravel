@@ -90,6 +90,32 @@ APP_URL=http://localhost
 - https://grafikart.fr/tutoriels/validation-laravel-2118#autoplay
 - https://laravel.com/docs/10.x/validation
 
+## Model binding
+### Références
+- https://grafikart.fr/tutoriels/validation-laravel-2119#autoplay
+
+## Debugbar et IDE Helper
+### Références
+- https://grafikart.fr/tutoriels/debug-helper-laravel-2120#autoplay
+
+## Les formulaires
+### Références
+- https://grafikart.fr/tutoriels/form-laravel-2121#autoplay
+
+## Les Relation
+### Références
+- https://grafikart.fr/tutoriels/relation-eloquent-laravel-2122#autoplay
+
+
+## Authentification
+### Références
+- https://grafikart.fr/tutoriels/auth-laravel-2123#autoplay
+
+## Système de fichiers
+### Références
+- https://grafikart.fr/tutoriels/storage-laravel-2124#autoplay
+
+
 ## Références 
 - https://laravel.com/docs/10.x/installation
 - https://grafikart.fr/formations/laravel
