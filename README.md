@@ -1,27 +1,28 @@
-# lab-laravel
+#  
 
-Auto-formation sur laravel
+- Référence :   
 
-- Le backlog est organisé en chapitres 
-- Les chapitres suivre l'autoformation grafikart
-  - https://grafikart.fr/formations/laravel
+ 
 
-## Backlog - chapitres
+## Backlog 
 
-- Installation-confogiration
-- Routes
-- Controllers
-- Eloquent
-- Moteur de template Blade
-- Valider les données
-- Debugbar et IDE Helper
-- Model binding
-- formulaires
-- Relation
-- Authentification
-- Système de fichiers
-  
+Le backlog est une liste ordonées des tâches 
+
+- **chapitre** 
+- **exposé** 
+- **feature** 
+- **sous-tâche** 
+## Livrables 
+
+ 
+
+- /Backlog 
+  - Backlog 
+- /docs 
+  - Documentation 
 ## Références 
-- https://grafikart.fr/formations/laravel
-- https://www.youtube.com/watch?v=ULs7m9srEj8
+
+ 
+
+- [Autoformation](#) 
 
